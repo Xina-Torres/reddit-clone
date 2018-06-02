@@ -62,10 +62,10 @@
             </objects>
             <point key="canvasLocation" x="1633" y="-1479"/>
         </scene>
-        <!--View Controller-->
+        <!--Reddit List View-->
         <scene sceneID="vqL-tC-WfP">
             <objects>
-                <viewController id="dEV-o6-F9N" customClass="ViewController" customModule="Reddit_Clone" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="dEV-o6-F9N" customClass="RedditListView" customModule="Reddit_Clone" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="2lo-Cz-mtD">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="1600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
